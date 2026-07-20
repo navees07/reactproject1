@@ -1,0 +1,99 @@
+.product-card {
+  background: #ffffff;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.product-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.14);
+}
+
+.product-thumb-wrap {
+  position: relative;
+  background: #eef1f4;
+}
+
+.product-thumb {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+
+.badge {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  padding: 4px 12px;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.badge-cricket {
+  background: #1e824c;
+}
+
+.badge-football {
+  background: #1565c0;
+}
+
+.product-body {
+  padding: 18px 18px 20px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.product-title {
+  font-size: 1.05rem;
+  margin-bottom: 8px;
+  color: #1b1f23;
+}
+
+.product-description {
+  font-size: 0.88rem;
+  color: #667085;
+  line-height: 1.45;
+  flex: 1;
+  margin-bottom: 16px;
+}
+
+.product-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.product-price {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #1e824c;
+}
+
+.add-to-cart-btn {
+  background: #1b1f23;
+  color: #fff;
+  border: none;
+  padding: 9px 16px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: background 0.2s ease, transform 0.15s ease;
+}
+
+.add-to-cart-btn:hover {
+  background: #1e824c;
+}
+
+.add-to-cart-btn:active {
+  transform: scale(0.96);
+}
