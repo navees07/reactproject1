@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "English Willow Cricket Bat",
+      "price": 129.99,
+      "description": "Grade 1 English willow bat with a lightweight handle, big sweet spot, and a pro-level finish for serious run-scorers.",
+      "category": "Cricket",
+      "thumbnail": "https://placehold.co/400x400/2e7d32/ffffff?text=Cricket+Bat"
+    },
+    {
+      "id": 2,
+      "title": "Leather Cricket Ball - Red",
+      "price": 14.99,
+      "description": "Hand-stitched, four-piece leather cricket ball built for durability and consistent seam movement in match play.",
+      "category": "Cricket",
+      "thumbnail": "https://placehold.co/400x400/c62828/ffffff?text=Cricket+Ball"
+    },
+    {
+      "id": 3,
+      "title": "Pro Batting Gloves",
+      "price": 39.99,
+      "description": "Multi-layer foam padding with a snug pittard palm for maximum grip and protection against fast bowling.",
+      "category": "Cricket",
+      "thumbnail": "https://placehold.co/400x400/1565c0/ffffff?text=Batting+Gloves"
+    },
+    {
+      "id": 4,
+      "title": "Cricket Batting Leg Pads",
+      "price": 54.99,
+      "description": "Lightweight cane-and-foam leg guards offering full knee-roll protection without slowing your footwork.",
+      "category": "Cricket",
+      "thumbnail": "https://placehold.co/400x400/00695c/ffffff?text=Leg+Pads"
+    },
+    {
+      "id": 5,
+      "title": "Titanium Grille Batting Helmet",
+      "price": 74.99,
+      "description": "Adjustable dial-fit helmet with a titanium grille, meeting international safety standards for batting and keeping.",
+      "category": "Cricket",
+      "thumbnail": "https://placehold.co/400x400/4527a0/ffffff?text=Helmet"
+    },
+    {
+      "id": 6,
+      "title": "Cricket Kit Duffle Bag",
+      "price": 64.99,
+      "description": "Spacious wheelie kit bag with dedicated bat compartment, shoe pocket, and heavy-duty zips for match-day travel.",
+      "category": "Cricket",
+      "thumbnail": "https://placehold.co/400x400/37474f/ffffff?text=Kit+Bag"
+    },
+    {
+      "id": 7,
+      "title": "Match Football - Size 5",
+      "price": 34.99,
+      "description": "FIFA-quality thermally bonded match ball with a textured surface for accurate flight and consistent touch.",
+      "category": "Football",
+      "thumbnail": "https://placehold.co/400x400/0d47a1/ffffff?text=Football"
+    },
+    {
+      "id": 8,
+      "title": "Firm Ground Football Boots",
+      "price": 89.99,
+      "description": "Lightweight synthetic upper with conical firm-ground studs for sharp acceleration and precise cutting on natural turf.",
+      "category": "Football",
+      "thumbnail": "https://placehold.co/400x400/ef6c00/ffffff?text=Football+Boots"
+    },
+    {
+      "id": 9,
+      "title": "Home Kit Football Jersey",
+      "price": 44.99,
+      "description": "Breathable moisture-wicking jersey with a modern athletic fit, built to keep you cool through 90 minutes.",
+      "category": "Football",
+      "thumbnail": "https://placehold.co/400x400/ad1457/ffffff?text=Jersey"
+    },
+    {
+      "id": 10,
+      "title": "Pro Level Shin Guards",
+      "price": 19.99,
+      "description": "Ergonomic shin guards with ventilated ankle protection and an adjustable strap for a locked-in, low-profile fit.",
+      "category": "Football",
+      "thumbnail": "https://placehold.co/400x400/6a1b9a/ffffff?text=Shin+Guards"
+    },
+    {
+      "id": 11,
+      "title": "Goalkeeper Gloves - Grip Pro",
+      "price": 49.99,
+      "description": "Latex palm gloves with reinforced finger spines for extra grip and protection on every save.",
+      "category": "Football",
+      "thumbnail": "https://placehold.co/400x400/283593/ffffff?text=GK+Gloves"
+    },
+    {
+      "id": 12,
+      "title": "Training Cones Set (20 pcs)",
+      "price": 12.99,
+      "description": "Stackable agility cones for dribbling drills, passing lanes, and match-day warm-ups, built to last a full season.",
+      "category": "Football",
+      "thumbnail": "https://placehold.co/400x400/f9a825/ffffff?text=Cones"
+    }
+  ]
+}
